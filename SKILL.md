@@ -1,6 +1,9 @@
 ---
 name: cn-app-launch-compliance
 description: 当准备在中国大陆上线或发布移动 App（Android/iOS/小程序，含 AI 能力）时使用。提供"主体一致性 → 域名与备案 → 服务器与网络 → 隐私合规 → 支付接入 → 应用商店上架 → 短信 → 生成式AI备案 → 上线体检"的分阶段合规工作流。明确标注哪些步骤可由 Agent 自动化、哪些必须由用户本人完成（实名/签约/政府表单），并给出高频驳回原因与修复、官方来源链接。适用于把"写完代码"推进到"合规上线最后一公里"。
+version: 1.0.0
+author: Yang-Yin734
+tags: [china, compliance, app-launch, icp-filing, privacy, wechat-pay, alipay, agent-skill]
 ---
 
 # 中国大陆移动 App 上线合规
