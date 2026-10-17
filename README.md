@@ -1,5 +1,7 @@
 # cn-app-launch-compliance
 
+> 中文说明：[README.zh-CN.md](README.zh-CN.md)
+
 A reusable agent **skill** that decomposes "getting a mobile app (Android / iOS / mini-program, including AI features) compliant and live on the China mainland" into independently executable, partly automatable stages — and strictly respects one iron rule: **the agent never performs real-name verification, contract signing, face checks, or government/platform form submissions on your behalf.** It only drafts materials, scans code behavior, lists ordered to-dos, and runs a read-only health-check script, while making crystal clear what a human must do.
 
 ## What it does
